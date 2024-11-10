@@ -3,7 +3,7 @@ import React from 'react';
 const Services = () => {
   return (
     <div id="Services">
-      <section className="text-gray-700 body-font">
+      <section className="text-gray-700 body-font bg-white"> {/* Set background color to white */}
         <div className="flex justify-center mt-10 text-4xl font-regular">
           Why Us?
         </div>
